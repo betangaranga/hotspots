@@ -9,4 +9,4 @@ Instrucciones para ejecutar el cuaderno: <br>
 1) Clonar el repositorio o bien descargarlo como .zip y descomprimirlo
 2) Ubicarse en la carpeta donde se encuentra el proyecto
 3) Ejecutar: <b>pip3 install -r requirements.txt</b>
-4) Ejecutar <b>jupyter notebook algoritmoHotspot.ipynb</b>
+4) Ejecutar: <b>jupyter notebook algoritmoHotspot.ipynb</b>
