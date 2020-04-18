@@ -1,4 +1,4 @@
-# hotspots
+# Algoritmo de Hotspots
 El siguiente cuaderno en Jupyter, contiene una metodología para identificar hot spots. Dicha metodología se encuentra basaada en datos de crimenes en la CDMX <br>
 Requerimentos: <br>
 1) Python 3.7 o mayor. <br>
